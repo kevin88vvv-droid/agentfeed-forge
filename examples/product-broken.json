@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": "demo-duplicate",
+      "title": "故障商品 A",
+      "description": "包含 /Users/example/Desktop/private.json 與 sk-example1234567890abcdef，必須阻擋。",
+      "link": "https://example.com/a",
+      "availability": "available",
+      "price": "US$19",
+      "currency": "usd",
+      "brand": "Demo",
+      "version": "1.0.0",
+      "listing_version": "0.9.0"
+    },
+    {
+      "id": "demo-duplicate",
+      "title": "故障商品 B",
+      "description": "此檔只用來驗證重複與缺漏，不能發布。",
+      "link": "https://example.com/a",
+      "image_link": "not-a-url",
+      "availability": "in_stock",
+      "price": 19,
+      "currency": "USD",
+      "brand": "Demo"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AgentFeed Forge"
+  short_description: "Build and audit AI-readable digital product feeds"
+  default_prompt: "Use $agentfeed-forge to validate these digital products and prepare a reviewed multi-format feed package."

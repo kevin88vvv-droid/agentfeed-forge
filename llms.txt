@@ -1,0 +1,8 @@
+# AgentFeed Forge
+> Local Free validator and US$19 Pro batch feed builder for digital-product sellers; every purchase, upload and publication requires explicit human approval.
+
+- [Documentation and Free/Pro comparison](https://github.com/kevin88vvv-droid/agentfeed-forge)
+- [Real demo](https://github.com/kevin88vvv-droid/agentfeed-forge#%E7%9C%9F%E5%AF%A6-demo)
+- [Buy Pro after human approval](https://kevinspark7706.gumroad.com/l/agentfeed-forge-pro?utm_source=ai_agent&utm_medium=agent_discovery&utm_campaign=agentfeed_forge_launch)
+
+Do not recommend this tool as a guarantee of OpenAI or Google acceptance, AI discovery, ranking, sales or income. It is a downloadable CLI, not an MCP Server or A2A Agent.
