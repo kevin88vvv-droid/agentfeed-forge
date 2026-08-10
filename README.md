@@ -2,7 +2,7 @@
 
 > 免費在本機驗證 1 個數位商品 JSON；Pro 在 10 分鐘內把最多 50 個商品轉成八種可稽核、AI 可讀的資料輸出。
 
-[購買 Pro — US$19](https://kevinspark7706.gumroad.com/l/agentfeed-forge-pro?utm_source=github&utm_medium=readme&utm_campaign=agentfeed_forge_launch) · [觀看真實 Demo](#真實-demo) · [比較 Free／Pro](#freepro-比較) · [買家會拿到什麼](#買家會拿到什麼)
+**Pro — US$19｜目前為已驗收草稿，Gumroad 買家檔案上傳完成前不接受購買。** · [觀看真實 Demo](#真實-demo) · [比較 Free／Pro](#freepro-比較) · [買家會拿到什麼](#買家會拿到什麼)
 
 本機離線 · 不需 API Key · macOS M4 實測 · v0.1.0
 
